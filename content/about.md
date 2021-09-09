@@ -1,16 +1,12 @@
 ---
 date: "2014-04-09"
-title: "About"
+title: "About me"
 ---
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+I'm Seb. I'm late 30s. I have two children now, one who is almost 6 called Kirsten, and one who is now 8 months old called Joel.
 
-It makes use of a variety of open source projects including:
+I work in Public Health as a Data Scientist. I love programming in R, but I want to start branching out a bit more. One day I will find the time to do this.
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+I love most sport, and when I have time I play tennis. I am driven by inequalities and injustices. I am constantly torn in my career whether I should be using my skills to improve the balance of health outcomes between different parts of society, or should I be doing more towards helping mitigate climate change?!
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+That's me.
