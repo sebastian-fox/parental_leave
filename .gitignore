@@ -2,5 +2,8 @@
 .Rhistory
 .RData
 .Ruserdata
-public
+/public/
+/resources/
 .Rmd
+.DS_Store
+Thumbs.db

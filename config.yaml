@@ -1,4 +1,4 @@
-baseURL: https://example.com
+baseURL: /
 languageCode: en-us
 defaultContentLanguage: en
 title: Cupper
@@ -6,6 +6,7 @@ theme: "cupper-hugo-theme"
 googleAnalytics: UA-123456789-1
 disqusShortname: yourdiscussshortname
 enableGitInfo: true
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 
 taxonomies:
   tag: tags
@@ -45,7 +46,7 @@ menu:
     - name: Blog
       url: /post/
       weight: 2
-    - name: Tags
+    - name: Observations
       url: /tags/
       weight: 3
     - name: About
