@@ -1,0 +1,46 @@
+---
+title: Shared Parental Leave
+author: Seb
+date: '2021-09-10'
+slug: shared-parental-leave
+categories: []
+tags: []
+weight: 3
+draft: true
+---
+
+This post is to document where we are with Shared Parental Leave in England at the moment and explain it a little more to people who are thinking about taking it.
+
+```{r infographic, echo=FALSE, message=FALSE, warning=FALSE, fig.width=6, fig.height=3}
+library(ggplot2)
+library(dplyr)
+
+df <- tibble(
+  option = c("Option 1", 
+             "Option 2", "Option 2",
+             "Option 3", "Option 3"),
+  person = c("Mum", 
+             "Both parents", "Paid childcare",
+             "Mum", "Dad"),
+  value = c(1, 
+            0.5, 0.5,
+            0.6, 0.4)
+) %>% 
+  mutate(person = factor(person,
+                         levels = c("Mum", "Dad",
+                                    "Both parents", "Paid childcare")),
+         option = factor(option,
+                         levels = paste("Option", 3:1)))
+
+ggplot(df, aes(x = option, y = value, fill = person)) +
+  geom_col() +
+  scale_fill_brewer(palette = "Set1",
+                    name = "") +
+  theme_minimal() + 
+  coord_flip() +
+  theme(axis.title = element_blank()) +
+  scale_y_reverse(labels = c("Start of/nyear",
+                             "End of /nyear"),
+                  breaks = 1:0)
+```
+

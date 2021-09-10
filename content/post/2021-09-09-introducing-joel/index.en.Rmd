@@ -3,9 +3,9 @@ title: Introducing Joel
 author: Dad
 date: '2021-09-09'
 slug: introducing-joel
+weight: 2
 categories: [joel]
 tags: []
-weight: 2
 ---
 
 At the time of writing, Joel is just over 8 months old. This is what he looked like this evening after he finished devouring a fig:
