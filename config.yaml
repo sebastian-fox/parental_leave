@@ -28,9 +28,9 @@ params:
   hideHeaderLinks: false
   search: true
   showThemeSwitcher: true
-  defaultDarkTheme: true
+  defaultDarkTheme: false
   moveFooterToHeader: false
-  logoAlt: "An alternative text description of the logo"
+  logoAlt: "Joel and I at We the Curious (the Science museum in Bristol)"
   customCss:
     - css/custom_01.css
     - css/custom_02.css
