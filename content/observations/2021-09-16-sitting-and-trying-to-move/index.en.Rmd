@@ -5,7 +5,6 @@ date: '2021-09-16'
 slug: sitting-and-trying-to-move
 categories: []
 tags: []
-draft: true
 ---
 
 This observation section is starting a bit late, so a few milestones have been missed. I'll jumble them all up in here though and then try and be a bit more on the ball from now on. 
