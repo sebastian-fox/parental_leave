@@ -1,0 +1,32 @@
+---
+title: Getting a routine
+author: Dad
+date: '2021-09-20'
+slug: getting-a-routine
+categories: []
+tags: []
+---
+
+There was a lot planned for the first couple of months of my leave. I started just when school summer holidays started. We went away as a family to the Peak District (there was a lot of uncertainty about what travel restrictions would be in place because of the coronavirus so we decided to book somewhere where there'd be some certainty of success). We then had a week in Bristol where we had people to stay on and off. Then Natalie was starting her new job, so we combined a stay in London with my parents, who we hadn't seen too much since the pandemic started, with Natalie going into the head office to meet her new team. After that, Kirsten went to stay with her other grandparents and we came back to Bristol. Then finally, there was a week of me, Kirsten and Joel before Kirsten started Year 1 at school and I had 7 weeks of being with Joel ahead of me.
+
+I hadn't thought too much about what I would do when it was just me and Joel in the build up to the start of my leave, and with that time imminently approaching I decided it would be wise to have a bit of structure and routine to my weeks. i was concerned that I didn't really have a network of people I could be with and I wouldn't be able to entertain Joel all day every day, and having organised groups would give us both a bit of time with other people and opportunities to do things we wouldn't otherwise do. I booked onto 3 groups; 
+
+1. Adventure Babies, which is a sensory group where they read a book and provide props to the participants to play with when going through the book. There are also stations with different types of sensory play scattered around the room, like messy play, bubbles, colourful/flashing light toys etc.
+
+2. Swimming, where I go in the learner pool with Joel and we sing songs and play with the water.
+
+3. Happy Hands, where we sit in a circle and sing with actions and toys.
+
+At the time of writing, while I'm now 2 weeks into this routine, I'm very happy to have organised this. I thought I would be the only man doing anything I did, but I'm not. Adventure Babies has another man who is a regular, and there was a dad who came swimming last week with his daughter. Even then, I thought I would struggle with being so outnumbered (and potentially looking clueless!) by the mums - but each group has been very welcoming and Joel has taken to all of them really well. The enthusiasm of the group leaders and their friendliness has made it very easy for me. 
+
+I doubt my apprehensions are particularly unusual. There will be mothers that have the same concern as I do with these groups but for different reasons. I've been really surprised by how enjoyable I've found them.
+
+Each group also gives opportunities to Joel that I would really struggle to do without them. Playing with new and exciting toys each week, going swimming with different activities organised, and singing and playing with different instruments are all things that I wouldn't be able to do in an interesting way over a 7 week period. He is also socialising well with other children which must be good for him.
+
+The two days that I have spare are also really nice. Joel and I play a lot with his toys on those days. We'll also catch up with the activity of the moment - whether it is standing up and holding hands or burbling sounds. I also try and take him for a long walk on those days, when I can combine his sleep with listening to a podcast. Natalie isn't working on Mondays either, so we've had the chance to go out for a relaxed lunch each of the last two weeks too.
+
+## Parallel world
+
+I also wanted to comment on the parallel world I something feel like I'm living in at the moment. I get the occasional text from work colleagues, which remind me of what I'd be doing if I wasn't doing this. My headspace is very far from that world right now. I see neighbours in the street and I'm confused why they aren't on holiday all the time like I am. I feel like I'm living this parallel life of mums and babies, going places, like churches or pubs, designed for other activities but only we are welcome at that time of the day. We spend organised time together telling each other comforting words, restoring our collective sanity, before moving off for the rest of the day to catch up on house work or running other errands for children. Each week our babies are slightly bigger and they might do something slightly differently. It's a lovely world. Seeing devoted parents bringing their children to these places, giving their children these nice opportunities while they receive sense checks from other parents. A collective effort to give babies a good start to life and parents some comfort during the early stages of parenthood.
+
+I write this fully recognising not everyone is able to have these opportunities. Being part of this parallel world partly makes me realise how very lucky I am but also how difficult it must be for some families. Giving children the best start to life is such an important policy objective for reducing inequalities in the population in the long term.

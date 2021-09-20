@@ -5,7 +5,6 @@ date: '2021-09-10'
 slug: shared-parental-leave
 categories: []
 tags: []
-weight: 30
 ---
 
 This post is to explain where we are with Shared Parental Leave in England at the moment and describe it for people who are thinking about taking it.
