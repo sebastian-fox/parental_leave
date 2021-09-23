@@ -43,8 +43,12 @@ df <- tibble(
 
 ggplot(df, aes(x = option, y = value, fill = person)) +
   geom_col() +
-  scale_fill_brewer(palette = "Set1",
-                    name = "") +
+  scale_fill_manual(name = "",
+                    breaks = c(NA, "Mum", "Dad last",
+                               "Both parents", "Paid childcare"),
+                    labels = c(NA, "Mum", "Dad", "Both parents", "Paid childcare"),
+                    values = c("#1B9E77", "#D95F02", "#1B9E77", "#7570B3", "#E7298A"),
+                    na.value = "#1B9E77") +
   theme_minimal() + 
   coord_flip() +
   theme(axis.title = element_blank()) +
